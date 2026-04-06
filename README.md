@@ -26,7 +26,7 @@
 ```java
 public class Santhosh extends FullStackEngineer {
 
-    String role     = "Associate Software Engineer @ Virtusa (JPMC Client)";
+    String role     = "Associate Software Engineer @ Virtusa";
     String domain   = "Banking & Financial Services";
     int    yoe      = 3; // years
     String location = "Hyderabad, Telangana 🇮🇳";
@@ -42,9 +42,6 @@ public class Santhosh extends FullStackEngineer {
         "React.js UI Development",
         "AWS Cloud Deployments"
     };
-
-    String funFact = "I replaced a third-party tool with an in-house platform " +
-                     "that serves 200+ analysts with sub-second latency 🚀";
 }
 ```
 
