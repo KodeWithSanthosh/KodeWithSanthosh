@@ -13,9 +13,9 @@
 <!-- Profile Views + Social Badges -->
 ![Profile Views](https://komarev.com/ghpvc/?username=KodeWithSanthosh&color=4A9EFF&style=flat-square&label=Profile+Views)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/SanthoshAngadipeta)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=white)](https://leetcode.com/u/Santhosh_Angadipeta)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=white)](https://leetcode.com/u/SanthoshSolves/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:santhoshangadipeta.sde@gmail.com)
-[![AWS Certified](https://img.shields.io/badge/AWS_Certified-Data_Engineer_Associate-FF9900?style=flat-square&logo=amazon-aws&logoColor=white)](https://aws.amazon.com/certification/)
+[![AWS Certified](https://img.shields.io/badge/AWS_Certified-Data_Engineer_Associate-FF9900?style=flat-square&logo=amazon-aws&logoColor=white)](https://cp.certmetrics.com/amazon/en/public/verify/credential/1cc92a54e2a9442198c67aa1429c2218)
 
 </div>
 
@@ -100,7 +100,7 @@ public class Santhosh extends FullStackEngineer {
 
 ## 💼 Professional Experience
 
-### 🏦 Virtusa Consulting Services — JPMC Client *(Jan 2024 – Present)*
+### 🏦 Virtusa Consulting Services  *(Jan 2024 – Present)*
 
 **📋 Case Management System** *(Aug 2024 – Present)*
 > Built an in-house workflow-driven platform eliminating third-party vendor dependency, serving 200+ analysts with real-time case visibility across 1M+ live records.
@@ -134,7 +134,7 @@ public class Santhosh extends FullStackEngineer {
 
 <div align="center">
 
-[![AWS Certified Data Engineer](https://img.shields.io/badge/AWS_Certified-Data_Engineer_Associate-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)](https://aws.amazon.com/certification/certified-data-engineer-associate/)
+[![AWS Certified Data Engineer](https://img.shields.io/badge/AWS_Certified-Data_Engineer_Associate-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)](https://cp.certmetrics.com/amazon/en/public/verify/credential/1cc92a54e2a9442198c67aa1429c2218)
 
 </div>
 
