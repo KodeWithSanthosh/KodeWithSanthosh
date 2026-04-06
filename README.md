@@ -38,7 +38,7 @@ public class Santhosh extends FullStackEngineer {
     final String location = "Hyderabad, Telangana 🇮🇳";
 
     final String[] currentlyBuilding = {
-        "Compliance-driven Case Management System",
+        "Workflow-driven Case Management System",
         "Centralized Authorization & RBAC Service"
     };
 
@@ -46,10 +46,8 @@ public class Santhosh extends FullStackEngineer {
         "Spring Boot Microservices",
         "Spring Batch ETL Pipelines",
         "React.js + AG Grid UI",
-        "AWS Cloud Deployments (ECS, RDS, S3)"
+        "AWS Cloud Deployments"
     };
-
-    final String superpower = "Turning compliance chaos into automated, auditable systems ⚡";
 }
 ```
 
