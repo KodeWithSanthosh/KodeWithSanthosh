@@ -290,4 +290,4 @@ Institute of Aeronautical Engineering, Hyderabad &nbsp;*(2019 – 2023)*
 
 *"Clean code, clean architecture, real impact."*
 
-</div>](https://x.com/https_santhosh)
+</div>
