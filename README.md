@@ -16,7 +16,7 @@
 &nbsp;
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:santhoshangadipeta.sde@gmail.com)
 &nbsp;
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://x.com/https_santhosh)
 &nbsp;
 [![AWS Certified](https://img.shields.io/badge/AWS_Certified-Data_Engineer-FF9900?style=flat-square&logo=amazon-aws&logoColor=white)](https://cp.certmetrics.com/amazon/en/public/verify/credential/1cc92a54e2a9442198c67aa1429c2218)
 
@@ -31,24 +31,23 @@
 ```java
 public class Santhosh extends FullStackEngineer {
 
-    final String role     = "Associate Software Engineer @ Banking & Financial Services";
-    final String company  = "Virtusa Consulting Services";
-    final int    yoe      = 3;   // years of production experience
+    final String role     = "Associate Software Engineer";
+    final String company  = "Virtusa";
+    final double yoe      = 2.6;   // years of production experience
     final String location = "Hyderabad, Telangana 🇮🇳";
 
     final String[] currentlyBuilding = {
-        "Compliance-driven Case Management System",
-        "Centralized Authorization & RBAC Service"
+        "Workflow-driven Case Management Platform for banking operations",
+        "Spring Batch ETL pipelines for large-scale financial data processing",
+        "Role-based Authorization & User Management microservice"
     };
 
     final String[] strengths = {
         "Spring Boot Microservices",
         "Spring Batch ETL Pipelines",
         "React.js + AG Grid UI",
-        "AWS Cloud Deployments (ECS, RDS, S3)"
+        "AWS Cloud Deployments"
     };
-
-    final String superpower = "Turning compliance chaos into automated, auditable systems ⚡";
 }
 ```
 
@@ -277,7 +276,7 @@ Institute of Aeronautical Engineering, Hyderabad &nbsp;*(2019 – 2023)*
   <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="leetcode" height="40" width="40"/>
 </a>
 &nbsp;&nbsp;
-<a href="https://twitter.com/" target="_blank">
+<a href="https://x.com/https_santhosh" target="_blank">
   <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="twitter" height="40" width="40"/>
 </a>
 
