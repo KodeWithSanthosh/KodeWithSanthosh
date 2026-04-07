@@ -1,4 +1,4 @@
-<div align="center">
+[<div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6a11cb,50:2575fc,100:0f2027&height=210&section=header&text=Santhosh%20Angadipeta&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Java%20Full%20Stack%20Engineer%20%7C%20Spring%20Boot%20%7C%20React%20%7C%20AWS&descAlignY=58&descColor=c3d9ff&animation=fadeIn" />
 
@@ -24,7 +24,6 @@
 
 <br/>
 
-<!-- ═══════════════════════════════════════════════════════ -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="36"> &nbsp;About Me
@@ -38,7 +37,7 @@ public class Santhosh extends FullStackEngineer {
     final String location = "Hyderabad, Telangana 🇮🇳";
 
     final String[] currentlyBuilding = {
-        "Workflow-driven Case Management System",
+        "Compliance-driven Case Management System",
         "Centralized Authorization & RBAC Service"
     };
 
@@ -46,63 +45,97 @@ public class Santhosh extends FullStackEngineer {
         "Spring Boot Microservices",
         "Spring Batch ETL Pipelines",
         "React.js + AG Grid UI",
-        "AWS Cloud Deployments"
+        "AWS Cloud Deployments (ECS, RDS, S3)"
     };
+
+    final String superpower = "Turning compliance chaos into automated, auditable systems ⚡";
 }
 ```
 
 <br/>
 
-<!-- ═══════════════════════════════════════════════════════ -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-## 🛠️ &nbsp;Tech Stack & Tools
+## 🛠️ &nbsp;Languages & Tools
 
-<div align="center">
+<h3 align="left">Backend</h3>
+<p align="left">
+  <a href="https://www.java.com" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg" alt="java" width="55" height="55"/>
+  </a>&nbsp;&nbsp;
+  <a href="https://spring.io/projects/spring-boot" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original-wordmark.svg" alt="spring" width="55" height="55"/>
+  </a>&nbsp;&nbsp;
+  <a href="https://hibernate.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/hibernate/hibernate-original-wordmark.svg" alt="hibernate" width="55" height="55"/>
+  </a>&nbsp;&nbsp;
+  <a href="https://www.python.org" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original-wordmark.svg" alt="python" width="55" height="55"/>
+  </a>&nbsp;&nbsp;
+  <a href="https://www.postman.com/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="50" height="50"/>
+  </a>
+</p>
 
-**Backend**
+<h3 align="left">Frontend</h3>
+<p align="left">
+  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="55" height="55"/>
+  </a>&nbsp;&nbsp;
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="50" height="50"/>
+  </a>&nbsp;&nbsp;
+  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="55" height="55"/>
+  </a>&nbsp;&nbsp;
+  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="55" height="55"/>
+  </a>&nbsp;&nbsp;
+  <a href="https://axios-http.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/axios/axios-plain-wordmark.svg" alt="axios" width="55" height="55"/>
+  </a>
+</p>
 
-![Java](https://img.shields.io/badge/Java_17-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
-![Spring Batch](https://img.shields.io/badge/Spring_Batch-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
-![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white)
-![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white)
-![REST APIs](https://img.shields.io/badge/REST_APIs-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+<h3 align="left">Cloud & Databases</h3>
+<p align="left">
+  <a href="https://aws.amazon.com" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="55" height="55"/>
+  </a>&nbsp;&nbsp;
+  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="55" height="55"/>
+  </a>&nbsp;&nbsp;
+  <a href="https://www.oracle.com/database/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="55" height="55"/>
+  </a>
+</p>
 
-**Frontend**
-
-![React](https://img.shields.io/badge/React.js-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![AG Grid](https://img.shields.io/badge/AG_Grid-FF6B35?style=for-the-badge&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript_ES6+-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Axios](https://img.shields.io/badge/Axios-5A29E4?style=for-the-badge&logo=axios&logoColor=white)
-
-**Cloud & Databases**
-
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![Aurora PostgreSQL](https://img.shields.io/badge/Aurora_PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![Oracle DB](https://img.shields.io/badge/Oracle_DB-F80000?style=for-the-badge&logo=oracle&logoColor=white)
-
-**DevOps & Developer Tools**
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
-![Liquibase](https://img.shields.io/badge/Liquibase-2962FF?style=for-the-badge&logo=liquibase&logoColor=white)
-![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white)
-![Bruno](https://img.shields.io/badge/Bruno-EC6A2A?style=for-the-badge&logoColor=white)
-![GitHub Copilot](https://img.shields.io/badge/GitHub_Copilot-000000?style=for-the-badge&logo=githubcopilot&logoColor=white)
-![Splunk](https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&logoColor=white)
-
-</div>
+<h3 align="left">DevOps & Developer Tools</h3>
+<p align="left">
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="50" height="50"/>
+  </a>&nbsp;&nbsp;
+  <a href="https://github.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original-wordmark.svg" alt="github" width="55" height="55"/>
+  </a>&nbsp;&nbsp;
+  <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="55" height="55"/>
+  </a>&nbsp;&nbsp;
+  <a href="https://www.jenkins.io" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jenkins/jenkins-original.svg" alt="jenkins" width="50" height="50"/>
+  </a>&nbsp;&nbsp;
+  <a href="https://www.jetbrains.com/idea/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/intellij/intellij-original.svg" alt="intellij" width="50" height="50"/>
+  </a>&nbsp;&nbsp;
+  <a href="https://www.liquibase.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/liquibase/liquibase-original-wordmark.svg" alt="liquibase" width="55" height="55"/>
+  </a>&nbsp;&nbsp;
+  <a href="https://www.splunk.com/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/splunk/splunk-icon.svg" alt="splunk" width="50" height="50"/>
+  </a>
+</p>
 
 <br/>
 
-<!-- ═══════════════════════════════════════════════════════ -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ## ⚡ &nbsp;Impact at a Glance
@@ -150,7 +183,6 @@ public class Santhosh extends FullStackEngineer {
 
 <br/>
 
-<!-- ═══════════════════════════════════════════════════════ -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ## 💼 &nbsp;Professional Experience
@@ -183,30 +215,24 @@ public class Santhosh extends FullStackEngineer {
 
 <br/>
 
-<!-- ═══════════════════════════════════════════════════════ -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ## 📊 &nbsp;GitHub Stats
 
 <div align="center">
 
-<!-- <img src="https://github-readme-stats.vercel.app/api?username=KodeWithSanthosh&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=6C63FF&icon_color=2575fc&text_color=c9d1d9&ring_color=6C63FF" height="180em"/>
+<img src="https://github-readme-stats.vercel.app/api?username=KodeWithSanthosh&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=6C63FF&icon_color=2575fc&text_color=c9d1d9&ring_color=6C63FF" height="180em"/>
 &nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KodeWithSanthosh&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6C63FF&text_color=c9d1d9&langs_count=8" height="180em"/> -->
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KodeWithSanthosh&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6C63FF&text_color=c9d1d9&langs_count=8" height="180em"/>
 
 <br/><br/>
 
 <img src="https://streak-stats.demolab.com?user=KodeWithSanthosh&theme=tokyonight-duo&hide_border=true&background=0d1117&ring=6C63FF&fire=FF6B6B&currStreakLabel=6C63FF&sideLabels=2575fc&dates=8B949E" />
 
-<br/><br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=KodeWithSanthosh&bg_color=0d1117&color=6C63FF&line=2575fc&point=FF6B6B&area=true&hide_border=true" />
-
 </div>
 
 <br/>
 
-<!-- ═══════════════════════════════════════════════════════ -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ## 🏅 &nbsp;Certifications
@@ -219,7 +245,6 @@ public class Santhosh extends FullStackEngineer {
 
 <br/>
 
-<!-- ═══════════════════════════════════════════════════════ -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ## 🎓 &nbsp;Education
@@ -234,20 +259,27 @@ Institute of Aeronautical Engineering, Hyderabad &nbsp;*(2019 – 2023)*
 
 <br/>
 
-<!-- ═══════════════════════════════════════════════════════ -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ## 🤝 &nbsp;Let's Connect
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/SanthoshAngadipeta)
-&nbsp;
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:santhoshangadipeta.sde@gmail.com)
-&nbsp;
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/SanthoshSolves/)
-&nbsp;
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/)
+<a href="https://linkedin.com/in/SanthoshAngadipeta" target="_blank">
+  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="40" width="50"/>
+</a>
+&nbsp;&nbsp;
+<a href="mailto:santhoshangadipeta.sde@gmail.com" target="_blank">
+  <img src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" alt="gmail" height="40" width="40"/>
+</a>
+&nbsp;&nbsp;
+<a href="https://leetcode.com/u/SanthoshSolves/" target="_blank">
+  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="leetcode" height="40" width="40"/>
+</a>
+&nbsp;&nbsp;
+<a href="https://twitter.com/" target="_blank">
+  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="twitter" height="40" width="40"/>
+</a>
 
 </div>
 
@@ -259,4 +291,4 @@ Institute of Aeronautical Engineering, Hyderabad &nbsp;*(2019 – 2023)*
 
 *"Clean code, clean architecture, real impact."*
 
-</div>
+</div>](https://x.com/https_santhosh)
