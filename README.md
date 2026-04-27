@@ -61,9 +61,10 @@ public class Santhosh extends FullStackEngineer {
 <p align="center">
   <a href="https://www.java.com" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg" alt="java" width="55" height="55"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original-wordmark.svg" alt="spring" width="55" height="55"/>
   </a>&nbsp;&nbsp;
   <a href="https://spring.io/projects/spring-boot" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original-wordmark.svg" alt="spring" width="55" height="55"/>
+    
   </a>&nbsp;&nbsp;
   <a href="https://hibernate.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/hibernate/hibernate-original-wordmark.svg" alt="hibernate" width="55" height="55"/>
