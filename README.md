@@ -58,7 +58,7 @@ public class Santhosh extends FullStackEngineer {
 ## 🛠️ &nbsp;Languages & Tools
 
 <h3 align="left">Backend</h3>
-<p align="left">
+<p align="center">
   <a href="https://www.java.com" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg" alt="java" width="55" height="55"/>
   </a>&nbsp;&nbsp;
